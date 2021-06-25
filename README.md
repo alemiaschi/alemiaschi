@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Alessio Miaschi, a PhD student in Computer Science at the University of Pisa and member of the [ItaliaNLP Lab](http://www.italianlp.it/) ([ILC-CNR](http://www.ilc.cnr.it/)). In 2017, I received my MS degree in Digital Humanities at the University of Pisa.
+
+My research interests lie primarily in the context of Natural Language Processing. I am particularly interested in the analysis and the definition of methods for inferring and evaluating representations from data, as well as in the development of NLP tools for building educational applications.
+
+Visit my [personal website](https://pages.di.unipi.it/miaschi/)!
+
 <!--
 **alemiaschi/alemiaschi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
