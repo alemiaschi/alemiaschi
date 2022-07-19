@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alessio Miaschi, a PhD student in Computer Science at the University of Pisa and member of the [ItaliaNLP Lab](http://www.italianlp.it/) ([ILC-CNR](http://www.ilc.cnr.it/)). In 2017, I received my MS degree in Digital Humanities at the University of Pisa.
+I'm Alessio Miaschi, a PostDoc at the [ItaliaNLP Lab](http://www.italianlp.it/), Institute for Computational Linguistics “A. Zampolli” ([ILC-CNR](http://www.ilc.cnr.it/), Pisa). In 2022, I received my PhD in Computer Science at the University of Pisa.
 
 My research interests lie primarily in the context of Natural Language Processing. I am particularly interested in the analysis and the definition of methods for inferring and evaluating representations from data, as well as in the development of NLP tools for building educational applications.
 
