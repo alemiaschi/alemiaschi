@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alessio Miaschi, a PostDoc at the [ItaliaNLP Lab](http://www.italianlp.it/), Institute for Computational Linguistics “A. Zampolli” ([CNR-ILC](http://www.ilc.cnr.it/), Pisa). In 2022, I received my PhD in Computer Science at the University of Pisa.
+I'm Alessio Miaschi, a full-time researcher (RTDA) at the [ItaliaNLP Lab](http://www.italianlp.it/), Institute for Computational Linguistics “A. Zampolli” ([CNR-ILC](http://www.ilc.cnr.it/), Pisa). In 2022, I received my PhD in Computer Science at the University of Pisa.
 
 My research interests lie primarily in the context of Natural Language Processing (NLP) and in the study of Language Models (LM). I am particularly interested in the interpretability of large-scale LMs and in the evaluation of their internal representations, with a specific emphasis on understanding their inner linguistic abilities. Furthermore, I work in the development of NLP tools tailored for building educational applications.
 
